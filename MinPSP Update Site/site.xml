@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="MinPSP Update Site" url="http://www.jetdrone.com/static/eclipse/update">
+      MinPSP Update Site
+   </description>
+   <feature url="features/MinPSP_1.0.0.jar" id="MinPSP" version="1.0.0">
+      <category name="MinPSP"/>
+   </feature>
+   <category-def name="MinPSP" label="MinPSP"/>
+</site>
